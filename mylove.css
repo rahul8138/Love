@@ -58,7 +58,7 @@ button {
 
 
 #noBtn {
-    background-color: white;
+    background-color: yellow;
     color: #ff1744;
     left: 55%;
 }
@@ -104,4 +104,5 @@ button {
 @keyframes fadeIn {
     from {opacity: 0;}
     to {opacity: 1;}
+
 }
