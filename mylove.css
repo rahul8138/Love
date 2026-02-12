@@ -58,7 +58,7 @@ button {
 
 
 #noBtn {
-    background-color: yellow;
+    background-color: AB5454;
     color: #ff1744;
     left: 55%;
 }
@@ -77,11 +77,12 @@ button {
 }
 
 #message {
+    
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
-    background-color: white;
+    background-color: AD5A94;
     color: #ff1744;
     width: 500px;
     border-radius: 20px;
@@ -106,3 +107,4 @@ button {
     to {opacity: 1;}
 
 }
+
