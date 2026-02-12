@@ -82,7 +82,7 @@ button {
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
-    background-color: AD5A94;
+    background-color: white;
     color: white;
     width: 500px;
     border-radius: 20px;
@@ -107,6 +107,7 @@ button {
     to {opacity: 1;}
 
 }
+
 
 
 
