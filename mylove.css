@@ -44,7 +44,7 @@ button {
 }
 
 #yesBtn:hover {
-    animation: moveAround 2s infinite alternate;
+    animation: moveAround 3s infinite alternate;
 }
 
 
@@ -107,4 +107,5 @@ button {
     to {opacity: 1;}
 
 }
+
 
