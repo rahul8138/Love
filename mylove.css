@@ -58,7 +58,7 @@ button {
 
 
 #noBtn {
-    background-color: AB5454;
+    background-color: white;
     color: #ff1744;
     left: 55%;
 }
@@ -66,7 +66,7 @@ button {
 #close{
     all: unset;
     position: absolute;
-    background-color: #ff758c;
+    background-color: white;
     top: 4px;
     right: 4px;
     color: white;
@@ -83,7 +83,7 @@ button {
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     background-color: AD5A94;
-    color: #ff1744;
+    color: white;
     width: 500px;
     border-radius: 20px;
     padding: 40px 20px;
@@ -107,5 +107,6 @@ button {
     to {opacity: 1;}
 
 }
+
 
 
