@@ -83,7 +83,7 @@ button {
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     background-color: #FFFFFF;
-    color: white;
+    color: #FF73D0;
     width: 500px;
     border-radius: 20px;
     padding: 40px 20px;
@@ -107,6 +107,7 @@ button {
     to {opacity: 1;}
 
 }
+
 
 
 
